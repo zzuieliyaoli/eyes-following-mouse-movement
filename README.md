@@ -3,4 +3,4 @@
 
 ![](demo.png)
 
-[demo](http://liyaoli.com/demo/eyes-following-mouse-movement/demo.html)
+[Demo](http://liyaoli.com/demo/eyes-following-mouse-movement/demo.html)
